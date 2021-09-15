@@ -25,7 +25,7 @@ app.get('', (request, response) => {
         author: 'Niranjana',
     });
 });
-
+//sea
 //about page
 app.get('/about', (request, response) => {
     response.render('about', {
